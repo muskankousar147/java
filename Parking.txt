@@ -1,0 +1,7 @@
+public class ParkingSystemRunner{
+public static void main(String args[]){
+System.out.println("instructions");
+System.out.println("parking instructions to park vahicals near malls to avoid traffic");
+ParkingSystem.ParkingSystemNearMall();
+}
+}
